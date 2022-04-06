@@ -17,6 +17,7 @@ public class stdin_stdout_2 {
         int i = scan.nextInt();
         double d = scan.nextDouble();
         String s = "";
+        s = scan.nextLine();
         s += scan.nextLine();
         scan.close();
 
